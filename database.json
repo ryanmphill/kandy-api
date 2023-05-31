@@ -1,0 +1,44 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "address": "123 Main Street",
+      "squareFootage": 4000
+    },
+    {
+      "id": 2,
+      "address": "456 Elm Avenue",
+      "squareFootage": 6500
+    },
+    {
+      "id": 3,
+      "address": "789 Oak Lane",
+      "squareFootage": 5500
+    },
+    {
+      "id": 4,
+      "address": "321 Pine Road",
+      "squareFootage": 4500
+    },
+    {
+      "id": 5,
+      "address": "654 Maple Court",
+      "squareFootage": 7000
+    },
+    {
+      "id": 6,
+      "address": "987 Cedar Drive",
+      "squareFootage": 3700
+    },
+    {
+      "id": 7,
+      "address": "210 Birch Street",
+      "squareFootage": 5200
+    },
+    {
+      "id": 8,
+      "address": "543 Spruce Avenue",
+      "squareFootage": 6000
+    }
+  ]
+}
