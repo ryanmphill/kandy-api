@@ -40,5 +40,79 @@
       "address": "543 Spruce Avenue",
       "squareFootage": 6000
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "isStaff": true
+    },
+    {
+      "id": 5,
+      "name": "Robert Wilson",
+      "email": "robert.wilson@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 6,
+      "name": "Olivia Anderson",
+      "email": "olivia.anderson@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 7,
+      "name": "William Thompson",
+      "email": "william.thompson@example.com",
+      "isStaff": true
+    },
+    {
+      "id": 8,
+      "name": "Sophia Martinez",
+      "email": "sophia.martinez@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 9,
+      "name": "James Taylor",
+      "email": "james.taylor@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 10,
+      "name": "Emma Garcia",
+      "email": "emma.garcia@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 11,
+      "name": "Daniel Rodriguez",
+      "email": "daniel.rodriguez@example.com",
+      "isStaff": false
+    },
+    {
+      "id": 12,
+      "name": "Mia Martinez",
+      "email": "mia.martinez@example.com",
+      "isStaff": true
+    }
   ]
 }
