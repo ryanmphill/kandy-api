@@ -114,5 +114,454 @@
       "email": "mia.martinez@example.com",
       "isStaff": true
     }
-  ]
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "startDate": "2020-06-15",
+      "payRate": 24.50,
+      "locationId": 5,
+      "userId": 12
+    },
+    {
+      "id": 2,
+      "startDate": "2017-03-28",
+      "payRate": 22.75,
+      "locationId": 8,
+      "userId": 7
+    },
+    {
+      "id": 3,
+      "startDate": "2015-09-10",
+      "payRate": 27.80,
+      "locationId": 2,
+      "userId": 4
+    },
+    {
+      "id": 4,
+      "startDate": "2019-11-03",
+      "payRate": 21.20,
+      "locationId": 7,
+      "userId": 1
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "loyaltyNumber": 85732,
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "loyaltyNumber": 12645,
+      "userId": 3
+    },
+    {
+      "id": 3,
+      "loyaltyNumber": 98476,
+      "userId": 5
+    },
+    {
+      "id": 4,
+      "loyaltyNumber": 53219,
+      "userId": 6
+    },
+    {
+      "id": 5,
+      "loyaltyNumber": 67840,
+      "userId": 8
+    },
+    {
+      "id": 6,
+      "loyaltyNumber": 37592,
+      "userId": 9
+    },
+    {
+      "id": 7,
+      "loyaltyNumber": 25137,
+      "userId": 10
+    },
+    {
+      "id": 8,
+      "loyaltyNumber": 71364,
+      "userId": 11
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "category": "Chocolate Candy"
+    },
+    {
+      "id": 2,
+      "category": "Gummy Candy"
+    },
+    {
+      "id": 3,
+      "category": "Hard Candy"
+    },
+    {
+      "id": 4,
+      "category": "Sour Candy"
+    },
+    {
+      "id": 5,
+      "category": "Licorice Candy"
+    },
+    {
+      "id": 6,
+      "category": "Chewy Candy"
+    },
+    {
+      "id": 7,
+      "category": "Caramel Candy"
+    },
+    {
+      "id": 8,
+      "category": "Mint Candy"
+    }
+  ],
+  "products": [
+    {
+        "id": 1,
+        "name": "Peanut Butter Cup",
+        "productTypeId": 1,
+        "pricePerUnit": 0.89
+    },
+    {
+        "id": 2,
+        "name": "Lollipop",
+        "productTypeId": 3,
+        "pricePerUnit": 0.59
+    },
+    {
+        "id": 3,
+        "name": "Peach Rings",
+        "productTypeId": 6,
+        "pricePerUnit": 0.35
+    },
+    {
+        "id": 4,
+        "name": "Swedish Fish",
+        "productTypeId": 6,
+        "pricePerUnit": 0.45
+    },
+    {
+        "id": 5,
+        "name": "Malted Milk Balls",
+        "productTypeId": 1,
+        "pricePerUnit": 0.49
+    },
+    {
+        "id": 6,
+        "name": "Jawbreaker",
+        "productTypeId": 3,
+        "pricePerUnit": 0.89
+    },
+    {
+        "id": 7,
+        "name": "Toffee",
+        "productTypeId": 7,
+        "pricePerUnit": 0.75
+    },
+    {
+        "id": 8,
+        "name": "Caramel Covered Nougat",
+        "productTypeId": 7,
+        "pricePerUnit": 0.79
+    },
+    {
+        "id": 9,
+        "name": "Peppermint Patty",
+        "productTypeId": 8,
+        "pricePerUnit": 0.89
+    },
+    {
+        "id": 10,
+        "name": "Jelly Bean",
+        "productTypeId": 6,
+        "pricePerUnit": 0.19
+    },
+    {
+        "id": 11,
+        "name": "Saltwater Taffy",
+        "productTypeId": 6,
+        "pricePerUnit": 0.59
+    },
+    {
+        "id": 12,
+        "name": "Saltwater Taffy",
+        "productTypeId": 6,
+        "pricePerUnit": 0.59
+    },
+    {
+        "id": 13,
+        "name": "Assorted Licorice Bites",
+        "productTypeId": 5,
+        "pricePerUnit": 0.65
+    },
+    {
+        "id": 14,
+        "name": "Red Licorice Vines",
+        "productTypeId": 5,
+        "pricePerUnit": 0.85
+    },
+    {
+        "id": 15,
+        "name": "Black Licorice Vines",
+        "productTypeId": 5,
+        "pricePerUnit": 0.85
+    },
+    {
+        "id": 16,
+        "name": "Sour Gummy Worms",
+        "productTypeId": 4,
+        "pricePerUnit": 0.25
+    },
+    {
+        "id": 17,
+        "name": "Sour Apple Chews",
+        "productTypeId": 4,
+        "pricePerUnit": 0.20
+    },
+    {
+        "id": 18,
+        "name": "Peppermint Swirl",
+        "productTypeId": 4,
+        "pricePerUnit": 0.15
+    },
+    {
+        "id": 19,
+        "name": "Chocolate Almond Coconut Bar",
+        "productTypeId": 1,
+        "pricePerUnit": 0.55
+    },
+    {
+        "id": 20,
+        "name": "Milk Swiss Chocolate Bar",
+        "productTypeId": 1,
+        "pricePerUnit": 0.45
+    },
+    {
+        "id": 21,
+        "name": "85% Cacao Dark Chocolate Bar",
+        "productTypeId": 1,
+        "pricePerUnit": 0.55
+    },
+    {
+        "id": 22,
+        "name": "Salted Caramel Bar",
+        "productTypeId": 7,
+        "pricePerUnit": 0.55
+    },
+    {
+        "id": 23,
+        "name": "Candy Coated Mini Chocolates",
+        "productTypeId": 1,
+        "pricePerUnit": 0.25
+    }
+  ],
+  "productInStore": [
+    {
+      "id": 1,
+      "productId": 12,
+      "locationId": 3
+    },
+    {
+      "id": 2,
+      "productId": 6,
+      "locationId": 5
+    },
+    {
+      "id": 3,
+      "productId": 17,
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "productId": 8,
+      "locationId": 7
+    },
+    {
+      "id": 5,
+      "productId": 23,
+      "locationId": 1
+    },
+    {
+      "id": 6,
+      "productId": 9,
+      "locationId": 6
+    },
+    {
+      "id": 7,
+      "productId": 4,
+      "locationId": 8
+    },
+    {
+      "id": 8,
+      "productId": 14,
+      "locationId": 4
+    },
+    {
+      "id": 9,
+      "productId": 5,
+      "locationId": 3
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "locationId": 2
+    },
+    {
+      "id": 11,
+      "productId": 19,
+      "locationId": 7
+    },
+    {
+      "id": 12,
+      "productId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 13,
+      "productId": 11,
+      "locationId": 6
+    },
+    {
+      "id": 14,
+      "productId": 16,
+      "locationId": 4
+    },
+    {
+      "id": 15,
+      "productId": 7,
+      "locationId": 5
+    },
+    {
+      "id": 16,
+      "productId": 3,
+      "locationId": 8
+    },
+    {
+      "id": 17,
+      "productId": 21,
+      "locationId": 2
+    },
+    {
+      "id": 18,
+      "productId": 1,
+      "locationId": 3
+    },
+    {
+      "id": 19,
+      "productId": 15,
+      "locationId": 7
+    },
+    {
+      "id": 20,
+      "productId": 20,
+      "locationId": 1
+    },
+    {
+      "id": 21,
+      "productId": 18,
+      "locationId": 6
+    },
+    {
+      "id": 22,
+      "productId": 13,
+      "locationId": 5
+    },
+    {
+      "id": 23,
+      "productId": 22,
+      "locationId": 4
+    },
+    {
+      "id": 24,
+      "productId": 5,
+      "locationId": 1
+    },
+    {
+      "id": 25,
+      "productId": 7,
+      "locationId": 2
+    },
+    {
+      "id": 26,
+      "productId": 16,
+      "locationId": 3
+    },
+    {
+      "id": 27,
+      "productId": 14,
+      "locationId": 6
+    },
+    {
+      "id": 28,
+      "productId": 10,
+      "locationId": 8
+    },
+    {
+      "id": 29,
+      "productId": 1,
+      "locationId": 4
+    },
+    {
+      "id": 30,
+      "productId": 9,
+      "locationId": 5
+    },
+    {
+      "id": 31,
+      "productId": 4,
+      "locationId": 7
+    },
+    {
+      "id": 32,
+      "productId": 19,
+      "locationId": 1
+    },
+    {
+      "id": 33,
+      "productId": 18,
+      "locationId": 2
+    },
+    {
+      "id": 34,
+      "productId": 3,
+      "locationId": 3
+    },
+    {
+      "id": 35,
+      "productId": 21,
+      "locationId": 6
+    },
+    {
+      "id": 36,
+      "productId": 12,
+      "locationId": 8
+    },
+    {
+      "id": 37,
+      "productId": 8,
+      "locationId": 4
+    },
+    {
+      "id": 38,
+      "productId": 15,
+      "locationId": 5
+    },
+    {
+      "id": 39,
+      "productId": 23,
+      "locationId": 7
+    },
+    {
+      "id": 40,
+      "productId": 2,
+      "locationId": 1
+    }
+  ],
+  "purchased": []
 }
