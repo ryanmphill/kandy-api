@@ -119,7 +119,7 @@
     {
       "id": 1,
       "startDate": "2020-06-15",
-      "payRate": 24.50,
+      "payRate": 24.5,
       "locationId": 5,
       "userId": 12
     },
@@ -133,14 +133,14 @@
     {
       "id": 3,
       "startDate": "2015-09-10",
-      "payRate": 27.80,
+      "payRate": 27.8,
       "locationId": 2,
       "userId": 4
     },
     {
       "id": 4,
       "startDate": "2019-11-03",
-      "payRate": 21.20,
+      "payRate": 21.2,
       "locationId": 7,
       "userId": 1
     }
@@ -223,142 +223,196 @@
   ],
   "products": [
     {
-        "id": 1,
-        "name": "Peanut Butter Cup",
-        "productTypeId": 1,
-        "pricePerUnit": 1.89
+      "id": 1,
+      "name": "Peanut Butter Cup",
+      "productTypeId": 1,
+      "pricePerUnit": 1.89
     },
     {
-        "id": 2,
-        "name": "Lollipop",
-        "productTypeId": 3,
-        "pricePerUnit": 1.59
+      "id": 2,
+      "name": "Lollipop",
+      "productTypeId": 3,
+      "pricePerUnit": 1.59
     },
     {
-        "id": 3,
-        "name": "Peach Rings",
-        "productTypeId": 2,
-        "pricePerUnit": 1.35
+      "id": 3,
+      "name": "Peach Rings",
+      "productTypeId": 2,
+      "pricePerUnit": 1.35
     },
     {
-        "id": 4,
-        "name": "Swedish Fish",
-        "productTypeId": 2,
-        "pricePerUnit": 1.45
+      "id": 4,
+      "name": "Swedish Fish",
+      "productTypeId": 2,
+      "pricePerUnit": 1.45
     },
     {
-        "id": 5,
-        "name": "Malted Milk Balls",
-        "productTypeId": 1,
-        "pricePerUnit": 1.49
+      "id": 5,
+      "name": "Malted Milk Balls",
+      "productTypeId": 1,
+      "pricePerUnit": 1.49
     },
     {
-        "id": 6,
-        "name": "Jawbreaker",
-        "productTypeId": 3,
-        "pricePerUnit": 0.89
+      "id": 6,
+      "name": "Jawbreaker",
+      "productTypeId": 3,
+      "pricePerUnit": 0.89
     },
     {
-        "id": 7,
-        "name": "Toffee",
-        "productTypeId": 7,
-        "pricePerUnit": 2.75
+      "id": 7,
+      "name": "Toffee",
+      "productTypeId": 7,
+      "pricePerUnit": 2.75
     },
     {
-        "id": 8,
-        "name": "Caramel Covered Nougat",
-        "productTypeId": 7,
-        "pricePerUnit": 2.15
+      "id": 8,
+      "name": "Caramel Covered Nougat",
+      "productTypeId": 7,
+      "pricePerUnit": 2.15
     },
     {
-        "id": 9,
-        "name": "Peppermint Patty",
-        "productTypeId": 8,
-        "pricePerUnit": 1.89
+      "id": 9,
+      "name": "Peppermint Patty",
+      "productTypeId": 8,
+      "pricePerUnit": 1.89
     },
     {
-        "id": 10,
-        "name": "Jelly Bean",
-        "productTypeId": 6,
-        "pricePerUnit": 1.19
+      "id": 10,
+      "name": "Jelly Bean",
+      "productTypeId": 6,
+      "pricePerUnit": 1.19
     },
     {
-        "id": 11,
-        "name": "Saltwater Taffy",
-        "productTypeId": 6,
-        "pricePerUnit": 1.59
+      "id": 11,
+      "name": "Saltwater Taffy",
+      "productTypeId": 6,
+      "pricePerUnit": 1.59
     },
     {
-        "id": 12,
-        "name": "Fruit Roll",
-        "productTypeId": 6,
-        "pricePerUnit": 1.59
+      "id": 12,
+      "name": "Fruit Roll",
+      "productTypeId": 6,
+      "pricePerUnit": 1.59
     },
     {
-        "id": 13,
-        "name": "Assorted Licorice Bites",
-        "productTypeId": 5,
-        "pricePerUnit": 1.65
+      "id": 13,
+      "name": "Assorted Licorice Bites",
+      "productTypeId": 5,
+      "pricePerUnit": 1.65
     },
     {
-        "id": 14,
-        "name": "Red Licorice Vines",
-        "productTypeId": 5,
-        "pricePerUnit": 1.85
+      "id": 14,
+      "name": "Red Licorice Vines",
+      "productTypeId": 5,
+      "pricePerUnit": 1.85
     },
     {
-        "id": 15,
-        "name": "Black Licorice Vines",
-        "productTypeId": 5,
-        "pricePerUnit": 1.85
+      "id": 15,
+      "name": "Black Licorice Vines",
+      "productTypeId": 5,
+      "pricePerUnit": 1.85
     },
     {
-        "id": 16,
-        "name": "Sour Gummy Worms",
-        "productTypeId": 4,
-        "pricePerUnit": 1.25
+      "id": 16,
+      "name": "Sour Gummy Worms",
+      "productTypeId": 4,
+      "pricePerUnit": 1.25
     },
     {
-        "id": 17,
-        "name": "Sour Apple Chews",
-        "productTypeId": 4,
-        "pricePerUnit": 1.20
+      "id": 17,
+      "name": "Sour Apple Chews",
+      "productTypeId": 4,
+      "pricePerUnit": 1.2
     },
     {
-        "id": 18,
-        "name": "Peppermint Swirl",
-        "productTypeId": 4,
-        "pricePerUnit": 1.15
+      "id": 18,
+      "name": "Peppermint Swirl",
+      "productTypeId": 4,
+      "pricePerUnit": 1.15
     },
     {
-        "id": 19,
-        "name": "Chocolate Almond Coconut Bar",
-        "productTypeId": 1,
-        "pricePerUnit": 2.55
+      "id": 19,
+      "name": "Chocolate Almond Coconut Bar",
+      "productTypeId": 1,
+      "pricePerUnit": 2.55
     },
     {
-        "id": 20,
-        "name": "Milk Swiss Chocolate Bar",
-        "productTypeId": 1,
-        "pricePerUnit": 2.45
+      "id": 20,
+      "name": "Milk Swiss Chocolate Bar",
+      "productTypeId": 1,
+      "pricePerUnit": 2.45
     },
     {
-        "id": 21,
-        "name": "85% Cacao Dark Chocolate Bar",
-        "productTypeId": 1,
-        "pricePerUnit": 2.55
+      "id": 21,
+      "name": "85% Cacao Dark Chocolate Bar",
+      "productTypeId": 1,
+      "pricePerUnit": 2.55
     },
     {
-        "id": 22,
-        "name": "Salted Caramel Bar",
-        "productTypeId": 7,
-        "pricePerUnit": 2.55
+      "id": 22,
+      "name": "Salted Caramel Bar",
+      "productTypeId": 7,
+      "pricePerUnit": 2.55
     },
     {
-        "id": 23,
-        "name": "Candy Coated Mini Chocolates",
-        "productTypeId": 1,
-        "pricePerUnit": 1.25
+      "id": 23,
+      "name": "Candy Coated Mini Chocolates",
+      "productTypeId": 1,
+      "pricePerUnit": 1.25
+    },
+    {
+      "name": "Crispy Rice Cake",
+      "productTypeId": 6,
+      "pricePerUnit": 2.1,
+      "id": 24
+    },
+    {
+      "name": "Bubble Gum",
+      "productTypeId": 6,
+      "pricePerUnit": 1.25,
+      "id": 25
+    },
+    {
+      "name": "Gummy Bears",
+      "productTypeId": 2,
+      "pricePerUnit": 0.88,
+      "id": 26
+    },
+    {
+      "name": "Gummy Bears",
+      "productTypeId": 2,
+      "pricePerUnit": 0.88,
+      "id": 27
+    },
+    {
+      "name": "skittles",
+      "productTypeId": 6,
+      "pricePerUnit": 1.21,
+      "id": 28
+    },
+    {
+      "name": "Jujube",
+      "productTypeId": 6,
+      "pricePerUnit": 1.78,
+      "id": 29
+    },
+    {
+      "name": "Espresso Beans",
+      "productTypeId": 1,
+      "pricePerUnit": 1.55,
+      "id": 30
+    },
+    {
+      "name": "Lemon Drop",
+      "productTypeId": 3,
+      "pricePerUnit": 0.65,
+      "id": 31
+    },
+    {
+      "name": "Dumdum",
+      "productTypeId": 3,
+      "pricePerUnit": 0.25,
+      "id": 32
     }
   ],
   "productInStore": [
