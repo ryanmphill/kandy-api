@@ -395,6 +395,30 @@
       "productTypeId": 3,
       "pricePerUnit": 0.65,
       "id": 29
+    },
+    {
+      "name": "Crispy Wafer Bar",
+      "productTypeId": 1,
+      "pricePerUnit": 1.15,
+      "id": 30
+    },
+    {
+      "name": "Cookie Bar",
+      "productTypeId": 1,
+      "pricePerUnit": 1.99,
+      "id": 31
+    },
+    {
+      "name": "Tropical Fruit Tape",
+      "productTypeId": 6,
+      "pricePerUnit": 2.09,
+      "id": 32
+    },
+    {
+      "name": "Sour Straws",
+      "productTypeId": 4,
+      "pricePerUnit": 0.59,
+      "id": 33
     }
   ],
   "productInStore": [
