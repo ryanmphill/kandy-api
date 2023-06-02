@@ -379,40 +379,22 @@
       "id": 26
     },
     {
-      "name": "Gummy Bears",
-      "productTypeId": 2,
-      "pricePerUnit": 0.88,
-      "id": 27
-    },
-    {
-      "name": "skittles",
-      "productTypeId": 6,
-      "pricePerUnit": 1.21,
-      "id": 28
-    },
-    {
       "name": "Jujube",
       "productTypeId": 6,
       "pricePerUnit": 1.78,
-      "id": 29
+      "id": 27
     },
     {
       "name": "Espresso Beans",
       "productTypeId": 1,
       "pricePerUnit": 1.55,
-      "id": 30
+      "id": 28
     },
     {
       "name": "Lemon Drop",
       "productTypeId": 3,
       "pricePerUnit": 0.65,
-      "id": 31
-    },
-    {
-      "name": "Dumdum",
-      "productTypeId": 3,
-      "pricePerUnit": 0.25,
-      "id": 32
+      "id": 29
     }
   ],
   "productInStore": [
