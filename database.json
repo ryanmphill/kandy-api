@@ -419,6 +419,12 @@
       "productTypeId": 4,
       "pricePerUnit": 0.59,
       "id": 33
+    },
+    {
+      "name": "Chocolate Pretzels",
+      "productTypeId": 1,
+      "pricePerUnit": 1.49,
+      "id": 34
     }
   ],
   "productInStore": [
