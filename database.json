@@ -113,6 +113,30 @@
       "name": "Mia Martinez",
       "email": "mia.martinez@example.com",
       "isStaff": true
+    },
+    {
+      "name": "John Jacob",
+      "email": "johnjacob@example.com",
+      "isStaff": true,
+      "id": 13
+    },
+    {
+      "name": "Dan Danielson",
+      "email": "dandanielson@example.com",
+      "isStaff": true,
+      "id": 14
+    },
+    {
+      "name": "Randy Randalson",
+      "email": "randyrandalson@example.com",
+      "isStaff": true,
+      "id": 15
+    },
+    {
+      "name": "Ron Ronald",
+      "email": "ronronald@example.com",
+      "isStaff": true,
+      "id": 16
     }
   ],
   "employees": [
@@ -143,6 +167,34 @@
       "payRate": 21.2,
       "locationId": 7,
       "userId": 1
+    },
+    {
+      "startDate": "01/03/2023",
+      "payRate": 21.42,
+      "locationId": 5,
+      "userId": 13,
+      "id": 5
+    },
+    {
+      "startDate": "03/04/2023",
+      "payRate": 20.82,
+      "locationId": 3,
+      "userId": 14,
+      "id": 6
+    },
+    {
+      "startDate": "02/22/2022",
+      "payRate": 32.11,
+      "locationId": 4,
+      "userId": 15,
+      "id": 7
+    },
+    {
+      "startDate": "03/30/2022",
+      "payRate": 23.43,
+      "locationId": 3,
+      "userId": 16,
+      "id": 8
     }
   ],
   "customers": [
